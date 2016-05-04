@@ -1,0 +1,24 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Ken Sodemann
+email: ken.sodemann@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I am an emtpy nester dad, software developer, Christian, and an alcoholic in recovery.
+  If you want (or need) to talk about any of that, feel free to contact me. In
+  my career, I have done several types of development. Currently I am really
+  into mobile and web application development with Angular and Ionic frameworks.
+  Besides all of that, I enjoy tattoos, piercings, most heavy metal, bicyling,
+  cars, hockey, and baseball.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://kensodemann.github.io" # the base hostname & protocol for your site
+twitter_username: KenSodemann
+github_username:  kensodemann
+
+# Build settings
+markdown: kramdown
