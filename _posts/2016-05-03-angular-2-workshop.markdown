@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Angular 2 Workshop"
-date:   2016-05-03 18:00:00 -0600
+date:   2016-05-03
 categories: ngconf2016
 ---
 
