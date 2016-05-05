@@ -5,9 +5,17 @@ date:   2016-05-03
 categories: ngconf2016
 ---
 
-Today I attended a informative and failry intense [Angular 2][angular2] workshop put on by [Thoughtram][thoughtram].
+Today I attended a informative and failry intense [Angular 2][angular2] [workshop][slides] put on by [Thoughtram][thoughtram].
 It was great fun, fairly fast-paced, and a good introduction to the next version of Angular, though it really just
-scratched the surface. Here are a couple of my impressions from that training.
+scratched the surface. Here are a couple of my impressions from that [training][slides].
+
+Here are the official git repositories for the training:
+
+* [Starter][starter] - the starter will fail to run, that is expected, fixing it is Execise #1
+* [Exercise Descriptions][descriptions]
+* [Exercise Solutions][solutions]
+
+Also, I have [my own reponsitory][mine] with commits for each step.
 
 ## Style Encapsulation Rocks
 
@@ -57,3 +65,8 @@ use on larger projects like ours.
 [shadowDOM]: http://webcomponents.org/articles/shadow-dom-strategies-in-angular-2/
 [typescript]: https://www.typescriptlang.org
 [ngcli]: https://cli.angular.io
+[starter]: https://github.com/thoughtram/angular2-master-class-starter
+[slides]: http://thoughtram.io/angular2-master-class-jump-start-slides/#/
+[descriptions]: https://github.com/thoughtram/angular2-master-class-jump-start-exercise-descriptions
+[solutions]: https://github.com/thoughtram/angular2-master-class-jump-start-solutions
+[mine]: https://github.com/kensodemann/angular2-master-class
