@@ -5,6 +5,10 @@ date:   2016-07-04
 categories: angular2
 ---
 
+NOTE: shortly after I wrote this article, the tools became slightly less borked.
+There is still quite a bit of churn in the [Angular 2][angular2] world, so you may
+still have to do some of this, or you may have to do none of it.
+
 I have a couple of small applications I am plinking with in order to continue my [Angular 2][angular2] learning.
 I noticed that there were a couple of releases recently. Angular 2 is now up to Release Candidate 4, the [CLI][cli]
 is now up to Beta 8, and [Material][material] is up to Alpha 6. So I started to update things, and found that things
