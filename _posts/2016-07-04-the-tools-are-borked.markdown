@@ -74,6 +74,12 @@ a MKE user's group demonstration, but that one _should_ be easier to deal with s
 Oh, and don't try using ```ng generate route``` for now. It is intentionally disabled until the router development
 calms down a bit, but it does give a link to some [interesting router information][router], so that is useful.
 
+[Provision eTime][etimeTest]
+
+[Provision TEP][tepTest]
+
+[Provision WPM][wpmTest]
+
 [angular2]: https://angular.io
 [cli]: https://cli.angular.io
 [material]: https://material.angular.io
@@ -81,3 +87,6 @@ calms down a bit, but it does give a link to some [interesting router informatio
 [TOH]: https://angular.io/docs/ts/latest/tutorial/
 [apidocs]: https://angular.io/docs/ts/latest/api/
 [router]: http://victorsavkin.com/post/145672529346/angular-router
+[etimeTest]: pentaetime2002://#/provision?key=PTI-DEV
+[tepTest]: pentatep2002://#/provision?key=PTI-DEV
+[wpmTest]: pentawpm2003://#/provision?key=PTI-DEV
