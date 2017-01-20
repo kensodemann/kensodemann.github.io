@@ -87,6 +87,6 @@ calms down a bit, but it does give a link to some [interesting router informatio
 [TOH]: https://angular.io/docs/ts/latest/tutorial/
 [apidocs]: https://angular.io/docs/ts/latest/api/
 [router]: http://victorsavkin.com/post/145672529346/angular-router
-[etimeTest]: pentaetime2002://#/provision?key=PTI-DEV
-[tepTest]: pentatep2002://#/provision?key=PTI-DEV
-[wpmTest]: pentawpm2003://#/provision?key=PTI-DEV
+[etimeTest]: pentaetime://#/provision?key=PTI-DEV
+[tepTest]: pentatep://#/provision?key=PTI-DEV
+[wpmTest]: pentawpm://#/provision?key=PTI-DEV
