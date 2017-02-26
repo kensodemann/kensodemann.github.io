@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Siena House Schedule"
-date:   2016-12-29
+date:   2017-02-25
 categories: service
 ---
 
@@ -9,6 +9,13 @@ This article is just devoted to giving us a place to conveniently find the lates
 If you would like to see any other information here, or would like to see us do something else online, please let me know.
 
 In all cases, the first person listed is the "captain" for the week.
+
+## March 2017
+
+* 3/6 - Ken & Jeff
+* 3/13 - Jeff & Bob G.
+* 3/20 - Tim, Melinda, & Rita
+* 3/27 - Bob G. & Ken
 
 ## February 2017
 
