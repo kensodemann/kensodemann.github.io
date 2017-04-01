@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Siena House Schedule"
-date:   2017-02-25
+date:   2017-04-01
 categories: service
 ---
 
@@ -9,6 +9,13 @@ This article is just devoted to giving us a place to conveniently find the lates
 If you would like to see any other information here, or would like to see us do something else online, please let me know.
 
 In all cases, the first person listed is the "captain" for the week.
+
+## April 2017
+
+* 4/3 - Bye Week
+* 4/10 - Rita & Bob G.
+* 4/17 - Ken & Bob G.
+* 4/24 - Tim, Melinda, & Rita
 
 ## March 2017
 
