@@ -80,13 +80,7 @@ calms down a bit, but it does give a link to some [interesting router informatio
 
 [UV Index][ratingsTest]
 
-[Current Weather ALT][rootTestAlt]
-
-[Forecasts ALT][categoriesTestAlt]
-
-[UV Index ALT][ratingsTestAlt]
-
-[Current Weather][rootTestURI]
+[Current Weather URI][rootTestURI]
 
 [Forecasts URI][categoriesTestURI]
 
@@ -103,9 +97,6 @@ calms down a bit, but it does give a link to some [interesting router informatio
 [categoriesTest]: https://world-of-teas.herokuapp.com/#/categories
 [ratingsTest]: https://world-of-teas.herokuapp.com/#/ratings
 [rootTest]: https://world-of-teas.herokuapp.com/#
-[categoriesTestAlt]: https://world-of-teas.herokuapp.com/categories
-[ratingsTestAlt]: https://world-of-teas.herokuapp.com/ratings
-[rootTestAlt]: https://world-of-teas.herokuapp.com/
 [categoriesTestURI]: kwsweather://world-of-teas.herokuapp.com/#/categories
 [ratingsTestURI]: kwsweather://world-of-teas.herokuapp.com/#/ratings
 [rootTestURI]: kwsweather://world-of-teas.herokuapp.com/#
