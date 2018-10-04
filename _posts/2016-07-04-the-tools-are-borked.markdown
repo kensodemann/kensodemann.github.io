@@ -76,7 +76,11 @@ calms down a bit, but it does give a link to some [interesting router informatio
 
 [Forecasts][forecastsTest]
 
-[Current Weather][currentWetherTest]
+[Current Weather][currentWeatherTest]
+
+[Forecasts URI][forecastsTestURI]
+
+[Current Weather URI][currentWeatherTestURI]
 
 
 [angular2]: https://angular.io
@@ -88,3 +92,5 @@ calms down a bit, but it does give a link to some [interesting router informatio
 [router]: http://victorsavkin.com/post/145672529346/angular-router
 [forecastsTest]: https://world-of-teas.herokuapp.com/#/categories
 [currentWeatherTest]: https://world-of-teas.herokuapp.com/#/ratings
+[forecastsTestURI]: kwsweather://world-of-teas.herokuapp.com/#/categories
+[currentWeatherTestURI]: kwsweather://world-of-teas.herokuapp.com/#/ratings
