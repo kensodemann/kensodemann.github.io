@@ -74,13 +74,10 @@ a MKE user's group demonstration, but that one _should_ be easier to deal with s
 Oh, and don't try using ```ng generate route``` for now. It is intentionally disabled until the router development
 calms down a bit, but it does give a link to some [interesting router information][router], so that is useful.
 
-[Provision eTime][etimeTest]
+[Forecasts][forecastsTest]
 
-[Provision TEP][tepTest]
+[Current Weather][currentWetherTest]
 
-[Provision WPM][wpmTest]
-
-[Test for Matt][mapLink]
 
 [angular2]: https://angular.io
 [cli]: https://cli.angular.io
@@ -89,7 +86,5 @@ calms down a bit, but it does give a link to some [interesting router informatio
 [TOH]: https://angular.io/docs/ts/latest/tutorial/
 [apidocs]: https://angular.io/docs/ts/latest/api/
 [router]: http://victorsavkin.com/post/145672529346/angular-router
-[etimeTest]: pentaetime://#/provision?key=PTI-DEV
-[tepTest]: pentatep://#/provision?key=PTI-DEV
-[wpmTest]: pentawpm://#/provision?key=PTI-DEV
-[mapLink]: pentatep://#/app/tracking/activityLog/ec5822c047aa47c6882b3965e5fa66dd
+[forecastsTest]: https://world-of-teas.herokuapp.com/#/categories
+[currentWeatherTest]: https://world-of-teas.herokuapp.com/#/ratings
