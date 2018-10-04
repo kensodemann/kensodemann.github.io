@@ -74,13 +74,23 @@ a MKE user's group demonstration, but that one _should_ be easier to deal with s
 Oh, and don't try using ```ng generate route``` for now. It is intentionally disabled until the router development
 calms down a bit, but it does give a link to some [interesting router information][router], so that is useful.
 
-[Forecasts][forecastsTest]
+[Current Weather][rootTest]
 
-[Current Weather][currentWeatherTest]
+[Forecasts][categoriesTest]
 
-[Forecasts URI][forecastsTestURI]
+[UV Index][ratingsTest]
 
-[Current Weather URI][currentWeatherTestURI]
+[Current Weather ALT][rootTestAlt]
+
+[Forecasts ALT][categoriesTestAlt]
+
+[UV Index ALT][ratingsTestAlt]
+
+[Current Weather][rootTestURI]
+
+[Forecasts URI][categoriesTestURI]
+
+[UV Index URI][ratingsTestURI]
 
 
 [angular2]: https://angular.io
@@ -90,7 +100,12 @@ calms down a bit, but it does give a link to some [interesting router informatio
 [TOH]: https://angular.io/docs/ts/latest/tutorial/
 [apidocs]: https://angular.io/docs/ts/latest/api/
 [router]: http://victorsavkin.com/post/145672529346/angular-router
-[forecastsTest]: https://world-of-teas.herokuapp.com/#/categories
-[currentWeatherTest]: https://world-of-teas.herokuapp.com/#/ratings
-[forecastsTestURI]: kwsweather://world-of-teas.herokuapp.com/#/categories
-[currentWeatherTestURI]: kwsweather://world-of-teas.herokuapp.com/#/ratings
+[categoriesTest]: https://world-of-teas.herokuapp.com/#/categories
+[ratingsTest]: https://world-of-teas.herokuapp.com/#/ratings
+[rootTest]: https://world-of-teas.herokuapp.com/#
+[categoriesTestAlt]: https://world-of-teas.herokuapp.com/categories
+[ratingsTestAlt]: https://world-of-teas.herokuapp.com/ratings
+[rootTestAlt]: https://world-of-teas.herokuapp.com/
+[categoriesTestURI]: kwsweather://world-of-teas.herokuapp.com/#/categories
+[ratingsTestURI]: kwsweather://world-of-teas.herokuapp.com/#/ratings
+[rootTestURI]: kwsweather://world-of-teas.herokuapp.com/#
