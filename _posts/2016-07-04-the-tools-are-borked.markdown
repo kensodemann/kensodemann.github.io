@@ -74,17 +74,6 @@ a MKE user's group demonstration, but that one _should_ be easier to deal with s
 Oh, and don't try using ```ng generate route``` for now. It is intentionally disabled until the router development
 calms down a bit, but it does give a link to some [interesting router information][router], so that is useful.
 
-[Current Weather][rootTest]
-
-[Forecasts][categoriesTest]
-
-[UV Index][ratingsTest]
-
-[Current Weather URI][rootTestURI]
-
-[Forecasts URI][categoriesTestURI]
-
-[UV Index URI][ratingsTestURI]
 
 
 [angular2]: https://angular.io
@@ -94,9 +83,3 @@ calms down a bit, but it does give a link to some [interesting router informatio
 [TOH]: https://angular.io/docs/ts/latest/tutorial/
 [apidocs]: https://angular.io/docs/ts/latest/api/
 [router]: http://victorsavkin.com/post/145672529346/angular-router
-[categoriesTest]: https://world-of-teas.herokuapp.com/#/categories
-[ratingsTest]: https://world-of-teas.herokuapp.com/#/ratings
-[rootTest]: https://world-of-teas.herokuapp.com/#
-[categoriesTestURI]: kwsweather://world-of-teas.herokuapp.com/#/categories
-[ratingsTestURI]: kwsweather://world-of-teas.herokuapp.com/#/ratings
-[rootTestURI]: kwsweather://world-of-teas.herokuapp.com/#
