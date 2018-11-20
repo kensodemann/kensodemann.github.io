@@ -20,6 +20,10 @@ These links are associated with the private Ionic Customer Success demo applicat
 - [Green Tea][greenTest]
 - [White Tea][whiteTest]
 - [Yellow Tea][yellowTest]
+- [Black Tea][blackTest]
+- [Dark Tea][darkTest]
+- [Puer Tea][puerTest]
+- [Herbal Tea][herbalTest]
 
 
 [PublicDeeplinksDemo]: https://github.com/kensodemann/deeplinks-demo
@@ -32,3 +36,7 @@ These links are associated with the private Ionic Customer Success demo applicat
 [greenTest]: https://cs-demo-deeplink.herokuapp.com/green 
 [whiteTest]: https://cs-demo-deeplink.herokuapp.com/white
 [yellowTest]: https://cs-demo-deeplink.herokuapp.com/yellow
+[blackTest]: https://cs-demo-deeplink.herokuapp.com/black
+[darkTest]: https://cs-demo-deeplink.herokuapp.com/dark
+[puerTest]: https://cs-demo-deeplink.herokuapp.com/puer
+[herbalTest]: https://cs-demo-deeplink.herokuapp.com/herbal
