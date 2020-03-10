@@ -5,7 +5,7 @@ date:   2018-11-16
 categories: ionic cordova
 ---
 
-These links are associated with my public [Deeplinks Demo][PublicDeeplinksDemo] application. This application does not fully work on iOS at this time. I could rectify that, but it is not really all that high on my list of things to do at this time.
+These links are associated with my public (and very out of date) [Deeplinks Demo][PublicDeeplinksDemo] application. This application does not fully work on iOS at this time. I could rectify that, but it is not really all that high on my list of things to do at this time.
 
 - [Current Weather][rootTest]
 - [Forecasts][categoriesTest]
@@ -15,7 +15,7 @@ These links are associated with my public [Deeplinks Demo][PublicDeeplinksDemo] 
 - [UV Index Using URI][ratingsTestURI]
 
 
-These links are associated with the private Ionic Customer Success demo applications (the code and app are private, not the web-site...)
+These links are associated with the Ionic Customer Success demo applications which we maintain for our customer's use in creating POCs:
 
 - [Green Tea][greenTest]
 - [White Tea][whiteTest]
@@ -24,6 +24,8 @@ These links are associated with the private Ionic Customer Success demo applicat
 - [Dark Tea][darkTest]
 - [Puer Tea][puerTest]
 - [Herbal Tea][herbalTest]
+- [Test #1][test1]
+- [Test #2][test2]
 
 
 [PublicDeeplinksDemo]: https://github.com/kensodemann/deeplinks-demo
@@ -40,3 +42,5 @@ These links are associated with the private Ionic Customer Success demo applicat
 [darkTest]: https://cs-demo-deeplink.herokuapp.com/dark
 [puerTest]: https://cs-demo-deeplink.herokuapp.com/puer
 [herbalTest]: https://cs-demo-deeplink.herokuapp.com/herbal
+[test1]: https://localhost/auth/callback
+[test2]: https://localhost/test
