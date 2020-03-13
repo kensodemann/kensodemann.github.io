@@ -28,6 +28,7 @@ These links are associated with the Ionic Customer Success demo applications whi
 - [Test #2][test2]
 - [Test #3][test3]
 - [Test #4][test4]
+- [Test #5][test5]
 
 
 [PublicDeeplinksDemo]: https://github.com/kensodemann/deeplinks-demo
@@ -48,3 +49,4 @@ These links are associated with the Ionic Customer Success demo applications whi
 [test2]: https://localhost/test
 [test3]: ionic://localhost/auth/callback
 [test4]: ionic://localhost/test
+[test5]: com.ekonoo.app:://localhost/auth/callback
