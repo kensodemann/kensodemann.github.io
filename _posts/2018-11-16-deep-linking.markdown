@@ -14,6 +14,8 @@ These links are associated with my public (and very out of date) [Deeplinks Demo
 - [Dark Tea][darkTest]
 - [Puer Tea][puerTest]
 - [Herbal Tea][herbalTest]
+- [Dark Custom][darkCustom]
+- [Dark Custom With Param][darkCustomParm]
 
 
 [PublicDeeplinksDemo]: https://github.com/kensodemann/deeplinks-demo
@@ -24,3 +26,5 @@ These links are associated with my public (and very out of date) [Deeplinks Demo
 [darkTest]: https://cs-demo-deeplink.herokuapp.com/dark
 [puerTest]: https://cs-demo-deeplink.herokuapp.com/puer
 [herbalTest]: https://cs-demo-deeplink.herokuapp.com/herbal
+[darkCustom]: csdldemo://dark
+[darkCustomParm]: csdldemo://dark=1234
