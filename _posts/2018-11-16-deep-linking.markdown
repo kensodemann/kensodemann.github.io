@@ -19,7 +19,7 @@ These links are associated with my public (and very out of date) [Deeplinks Demo
 [PublicDeeplinksDemo]: https://github.com/kensodemann/deeplinks-demo
 [greenTest]: https://cs-demo-deeplink.herokuapp.com/green 
 [whiteTest]: https://cs-demo-deeplink.herokuapp.com/white
-[yellowTest]: https://cs-demo-deeplink.herokuapp.com/yellow=1234
+[yellowTest]: https://cs-demo-deeplink.herokuapp.com/yellow?teaid=1234
 [blackTest]: https://cs-demo-deeplink.herokuapp.com/black
 [darkTest]: https://cs-demo-deeplink.herokuapp.com/dark
 [puerTest]: https://cs-demo-deeplink.herokuapp.com/puer
