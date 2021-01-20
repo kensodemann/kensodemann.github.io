@@ -27,4 +27,4 @@ These links are associated with my public (and very out of date) [Deeplinks Demo
 [puerTest]: https://cs-demo-deeplink.herokuapp.com/puer
 [herbalTest]: https://cs-demo-deeplink.herokuapp.com/herbal
 [darkCustom]: csdldemo://dark
-[darkCustomParm]: csdldemo://dark=1234
+[darkCustomParm]: csdldemo://dark?teaid=1234
