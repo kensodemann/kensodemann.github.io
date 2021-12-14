@@ -17,6 +17,7 @@ These links are associated with my public (and very out of date) [Deeplinks Demo
 - [White Custom][whiteCustom]
 - [Dark Custom][darkCustom]
 - [Dark Custom With Param][darkCustomParm]
+- [Dark Custom With Param][temporaryTest]
 
 
 [PublicDeeplinksDemo]: https://github.com/kensodemann/deeplinks-demo
@@ -30,3 +31,4 @@ These links are associated with my public (and very out of date) [Deeplinks Demo
 [whiteCustom]: csdldemo://white
 [darkCustom]: csdldemo://dark
 [darkCustomParm]: csdldemo://dark?teaid=1234
+[temporaryTest]: teatasterng://tabs/tab2
