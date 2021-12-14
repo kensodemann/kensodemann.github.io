@@ -17,7 +17,7 @@ These links are associated with my public (and very out of date) [Deeplinks Demo
 - [White Custom][whiteCustom]
 - [Dark Custom][darkCustom]
 - [Dark Custom With Param][darkCustomParm]
-- [Dark Custom With Param][temporaryTest]
+- [Temporary Test for Branch.io][temporaryTest]
 
 
 [PublicDeeplinksDemo]: https://github.com/kensodemann/deeplinks-demo
