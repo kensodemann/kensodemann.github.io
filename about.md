@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+description: "Technical Architect, Software Engineer, Capacitor, Ionic, React, Angular, Frontend Development"
 ---
 
 # **Kenneth W. Sodemann**
