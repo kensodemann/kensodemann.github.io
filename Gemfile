@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 gem "jekyll", "~> 3.9.0"
 
 # Using the default theme, so including this:
-gem "minima", "~> 2.5"
+gem "minima"
 
 gem "csv", "~> 3.3"
 gem "bigdecimal", "~> 4.1"
